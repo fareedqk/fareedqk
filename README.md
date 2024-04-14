@@ -3,10 +3,9 @@ Developer. Pathfinder. AI Fanatic
 
 Fareed is an avid Flutter Developer and Data Scientist Specializing in ML & DL.
 
-* 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [faroodcp9@gmail.com](mailto:faroodcp9@gmail.com)
-* 🧠  I'm learning PyTorch, YOLO, SEEM
-* 🤝  I'm open to collaborating on Flutter, Machine Learning, and Deep Learning
+* 🌍  From Pakistan 🇵🇰
+* 🧠  Currently learning PyTorch, YOLO, SEEM, NLTK
+* 🤝  Open to collaborating on Flutter, Machine Learning, and Deep Learning
 
 #### Skills
 
