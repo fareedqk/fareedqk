@@ -231,8 +231,8 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="230" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Fareed</text>
+    <rect width="200" height="42" rx="18.0355" />
+    <text x="15" y="27">Hey, I'm Fareed</text>
   </g>
 
   <!-- typing 2 -->
@@ -257,7 +257,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">A fanatic software engineer ✨</text>
-    <text x="15" y="50">Conitnuous Learner</text>
+    <text x="15" y="50">Conitnuous learner</text>
   </g>
 
   <!-- typing 3 -->
@@ -304,9 +304,9 @@
 
   </g>
 
-  <!-- Twitter -->
+  <!-- Intriguing -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="200" height="42" rx="18.0355" class="bubble" />
+    <rect width="380" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">An endlessly curious individual</text>
   </g>
    <!-- typing 5 -->
