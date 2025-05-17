@@ -4,7 +4,7 @@
 
 ### I can make things happen.
 
-- 👨‍💻 I’m currently working on machine learning and deep learning projects using Python.
+- 👨‍💻 I’m currently working on machine/deep learning projects using Python.
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
