@@ -1,8 +1,8 @@
-### Hi there 👋 I'm [Fareed!](https://github.com/fareedqk/) [LinkedIn!](https://linkedin.com/in/fareedqk/)
+## Hi there 👋 I'm [Fareed!](https://github.com/fareedqk/)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I can make things happen!
+### I can make things happen.
 
 - 👨‍💻 I’m currently working on machine learning and deep learning projects using Python.
 - 📚 Learning everything about Frontend and Backend technologies 😅
@@ -34,6 +34,9 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
 
+[<img src="https://github.com/user-attachments/assets/9a1ceae4-d537-4f50-a20c-f3a252e35afa" width="50"/>](https://linkedin.com/in/fareedqk/)
+[<img src="https://github.com/user-attachments/assets/b75573ad-6c20-4390-ba3b-d2fe1d3843d3" width="50"/>](https://fareedqk.github.io/)
+[<img src="https://github.com/user-attachments/assets/99f48530-7176-4de2-8969-89d6257e56b0" width="50"/>](https://x.com/fareedcodes)
 
 
 ---
