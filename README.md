@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Fareed!](https://github.com/fareedqk/)
+### Hi there 👋 I'm [Fareed!](https://github.com/fareedqk/) [LinkedIn!](https://linkedin.com/in/fareedqk/)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
@@ -33,5 +33,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
+
+
 
 ---
